@@ -1,0 +1,31 @@
+# Crime Hotspot Prediction using Machine Learning
+
+## Project Overview
+This project analyzes crime data across Indian states and UTs to identify patterns and predict crime hotspots using machine learning techniques.
+
+## Dataset Information
+Compiled from NCRB Crime in India Reports (2019–2023) and BPRD data on police organizations.  
+Covers 36 Indian states and UTs across 5 years with features including:
+
+- Total IPC crimes  
+- Violent, property, cyber, and women-related crimes  
+- Conviction rate  
+- Sanctioned vs actual police strength  
+- Vacancy percentage  
+- Police per lakh population  
+- Police budget (₹ Crores)
+
+*Note: Dataset not uploaded due to size constraints.*
+
+## Technologies Used
+- Python  
+- Pandas, NumPy  
+- Scikit-learn  
+- Matplotlib / Seaborn  
+- Jupyter Notebook  
+
+## Objective
+To analyze crime trends and build predictive insights for identifying high-crime regions and supporting data-driven policing decisions.
+
+## 👩‍💻 Author
+Parnavi Wanare , Mrunmayee Datar, Harsh Modi 
